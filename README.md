@@ -16,9 +16,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Para o Javascript funcionar é necessário usar um server local.
 
-## 📸 More ScreenShoots
+## 📸 ScreenShoots
 
-<img scr="imgs/preview.png">
+<p align="center"> <img src="imgs/preview.png"> </p>
 
 ## ✏️ Layout
 
