@@ -1,4 +1,4 @@
-<h1 align="center">Universe ~ SPA</h1>
+<h1 align="center">⭐ Universe ~ SPA 🌙</h1>
 
 <p align="center"> <img src="imgs/preview.gif"> </p>
 
